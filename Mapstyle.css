@@ -1,0 +1,32 @@
+.mhome:hover{
+    box-shadow: 0 0 5px;
+    color: #f9f9f9;
+    font-size: 40px;
+}
+.mhome{
+    font-size: 35px;                 
+    color: rgb(0, 0, 0); 
+    border-radius: 8px; 
+    margin-left: 50px;
+    transition: 0.25s;
+    margin-left:100px; 
+    margin-bottom: 5px; 
+}
+.map{
+    width: 1000px;
+    height: 600px;
+    margin-left: 150px;
+    margin-top: 25px;
+    border-radius: 30px;
+    border-style: solid;
+    box-shadow: 0 0 5px;
+    
+
+}
+.bod{
+    background:linear-gradient(rgb(66, 97, 225),rgb(130, 157, 205));
+    background-repeat: no-repeat;
+    background-position:center ;
+    background-attachment: fixed;
+    background-size: cover;
+}

@@ -1,0 +1,134 @@
+.body{
+    background: linear-gradient(rgb(112, 173, 243),rgb(69, 165, 243));
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+   
+}
+.h1{
+    font-size: 60px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 50px;
+     
+    
+}
+.home{
+    font-size: 35px;                 
+    color: rgb(0, 0, 0); 
+    border-radius: 8px; 
+    margin-left: 50px;
+    transition: 0.25s;
+    margin-left: 60px;
+
+}
+.home:hover{
+    box-shadow: 0 0 5px;
+    color: #f9f9f9;
+    font-size: 40px;
+    
+}
+.h2{
+   font-size: 35px; 
+   margin-left: 80px;
+   margin-bottom: 0px;
+   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif 
+    
+}
+.p1{
+    margin-left: 100px;
+    margin-top: 0px;
+    font-size: 20px;
+    margin-bottom:0px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: justify;
+    text-justify: inter-word;
+}
+.l1{
+    margin-left: 120px;
+    margin-top: 0px;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    transition: 0.3s;
+    color: rgb(5, 12, 75);
+    
+}
+.l1:hover{
+    box-shadow: 0 0 10px;
+    border-radius: 6px;
+    color: rgb(241, 242, 248);
+    font-size:22px;
+}
+.pic1{
+    width: 200px;
+    height: auto;
+    margin-left: 100px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    box-shadow: 0 0 3px;
+}
+.pic2{
+    width: 200px;
+    height: auto;
+    border-radius: 8px;
+    margin-left:10px ;
+    margin-bottom: 20px;
+    box-shadow: 0 0 3px;
+    
+}
+.pic3{
+    width:400px;
+    margin-left:100px ;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 3px;
+
+}
+
+.p2{
+    margin-left: 100px;
+    margin-top: 0px;
+    font-size: 20px;
+    margin-bottom:10px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.pic4{
+    width: 200px;
+    height: auto;
+    border-radius: 8px;
+    margin-left:100px ;
+    margin-bottom: 20px;
+    box-shadow: 0 0 3px;
+}
+.pic5{
+    width: 200px;
+    height: auto;
+    border-radius: 8px;
+    margin-left:8px ;
+    margin-bottom: 20px;
+    box-shadow: 0 0 3px;
+}
+.pic6{
+    width: 220px;
+    height: auto;
+    border-radius: 8px;
+    margin-left:20px ;
+    margin-bottom: 20px;
+    box-shadow: 0 0 3px;
+}
+.pic7{
+    width: 300px;
+    height: auto;
+    border-radius: 8px;
+    margin-left:8px ;
+    margin-bottom: 20px;
+    box-shadow: 0 0 3px;
+}
+.moreimg{
+    margin-left: 50px;
+    margin-top: 20px;
+    border-radius: 8px;
+}
+
+.moreimg1{
+    border-radius: 8px;
+}
